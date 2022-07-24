@@ -43,5 +43,5 @@ The analysis of the Citi Bike data shows that:
 
 ### Additional visualizations are recommended for future analysis
 
-- Trip locations map based on birth year to examine age group by area
-- Trip duration treemap to examine how long each bike is used, and mark which ones are most frequently
+1. Trip locations map based on birth year to examine age group by area
+2. Trip duration treemap to examine how long each bike is used, and mark which ones are most frequently
