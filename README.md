@@ -41,6 +41,7 @@ The analysis of the Citi Bike data shows that:
 
 ![Bike_Utliz](https://github.com/frlinh/bikesharing/blob/9b9456a291c7f9ca5beafba8335924db4ff5939c/Resources/bikeUtilizationFiltered.png)
 
-### Additional Visualizations will be required for future analysis
+### Additional visualizations are recommended for future analysis
+
 - Trip locations map based on birth year to examine age group by area
 - Trip duration treemap to examine how long each bike is used, and mark which ones are most frequently
